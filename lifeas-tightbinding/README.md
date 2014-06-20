@@ -8,6 +8,6 @@ This routine calculates a tight binding model for the iron pnictide superconduct
 By changing the "npi" input to the defineHamiltonian() method, you can calculate further out in k-space. For example, npi=3 is displayed below:
 
 
-![alt text](https://github.com/EthanRosenthal/stm-routines/blob/master/lifeas-tightbinding/Fermi_Surface_Extended.png?raw=true "Fermi Surface 1st BZ")
+![alt text](https://github.com/EthanRosenthal/stm-routines/blob/master/lifeas-tightbinding/Fermi_Surface_Extended.png?raw=true "Fermi Surface Extended")
 
 
