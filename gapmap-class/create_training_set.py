@@ -74,4 +74,8 @@ def main():
     x_train, rest_of_map = shape_input(raw)
     y_train = build_training_set(x_train, V)
 
+    print 'Change SDW 2\'s into 0\'s\n'
+
+    y_train[y_train == 2] == 0
+
     return x_train, y_train, rest_of_map
