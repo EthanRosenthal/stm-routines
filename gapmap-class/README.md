@@ -7,4 +7,4 @@ These regions of the sample are identified by generating a dI/dV map of the samp
 
 See the plot below for dI/dV curves indicative of SC and SDW.
 
-!["SDW and SC dI/dV Curves"](https://github.com/EthanRosenthal/stm-routines/blob/master/gapmap-class/sdw_and_sc_spec.png?raw=true "SDW and SC dI/dV Curves")
+!["SDW and SC dI/dV Curves"](https://github.com/EthanRosenthal/stm-routines/blob/master/gapmap-class/img/sdw_and_sc_spec.png?raw=true "SDW and SC dI/dV Curves")
